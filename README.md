@@ -1,6 +1,6 @@
 #  Postman Collection - API 測試
 ##  用途
-針對[https://api.practicesoftwaretesting.com]設計的測試集合，驗證產品 API 是否符合預期的資料結構與行為
+針對[https://api.practicesoftwaretesting.com] 設計的測試集合，驗證產品 API 是否符合預期的資料結構與行為
 
 ##  API 規格簡要說明
 
